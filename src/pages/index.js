@@ -10,7 +10,7 @@ export default function Home({ data }) {
     <Layout>
       <section className={header}>
         <div>
-          <h2>Design</h2>
+          <h2>Design with Care</h2>
           <h3>Develop</h3>
           <p>UX designer & web developer based in Manchester.</p>
           <Link className={btn} to='/projects'>My Portfolio Projects</Link>
